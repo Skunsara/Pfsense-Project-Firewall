@@ -8,7 +8,7 @@
 - [Firewall Configuration](#firewall-configuration)
 - [Advanced Configuration: Isolating the Network](#advanced-configuration-isolating-the-network)
 - [Conclusion](#conclusion)
-
+ 
 ## Introduction
 This guide provides step-by-step instructions on how to install pfSense in VirtualBox for setting up a virtual lab environment.
 
